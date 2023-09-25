@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QA29: Issues</title>
+  <link rel="self" href="http://195.64.241.133:3000/projects/qa29/issues.atom?key=87b1378b3359ce116369ed001157718f0446dd87"/>
+  <link rel="alternate" href="http://195.64.241.133:3000/projects/qa29/issues"/>
+  <id>http://195.64.241.133:3000/</id>
+  <icon>http://195.64.241.133:3000/favicon.ico?1586156450</icon>
+  <updated>2023-09-22T14:38:26Z</updated>
+  <author>
+    <name>Redmine</name>
+  </author>
+  <generator uri="https://www.redmine.org/">
+Redmine  </generator>
+  <entry>
+    <title>Ошибка #21649 (Новая): Частичная локализация в названии товара в разделе "Одежда и экипировка"</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21649"/>
+    <id>http://195.64.241.133:3000/issues/21649</id>
+    <updated>2023-09-22T14:38:26Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1.Зайти на сайт&lt;br /&gt;2.Выбрать в меню раздел "Одежда и экипировка" &lt;br /&gt;3.Выбрать "Одежда и экипировка рыбацкая"&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;В украинской версии сайта название товара на украинском языке&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;В украинской версии сайта название товара на русском языке&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/63bb4fb7df00339db19cf36f3133ccd3"&gt;https://gyazo.com/63bb4fb7df00339db19cf36f3133ccd3&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21648 (Новая): Отсутствует изображение  товаров на рекламных картинках в разделе "уценка"</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21648"/>
+    <id>http://195.64.241.133:3000/issues/21648</id>
+    <updated>2023-09-22T14:33:02Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. В меню выбрать "уцененные товары"&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Изображения присутствуют&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Изображения товаров отсутствуют&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/04ec0e9836268f264993c689951d9916"&gt;https://gyazo.com/04ec0e9836268f264993c689951d9916&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21647 (Новая): Частичная локализация в разделе "Гарантийные обязательства" в украинской в...</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21647"/>
+    <id>http://195.64.241.133:3000/issues/21647</id>
+    <updated>2023-09-22T14:20:43Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. Выбрать раздел Игрушки&lt;br /&gt;3. Выбрать машинку Амфибию&lt;br /&gt;4. Справа нажать раздел "Гарантийные обязательства"&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Информация предоставлена на украинском языке&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Информация на русском языке в украинской версии сайта&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/9acc47388a6d42285e1e0cff4b0114ea"&gt;https://gyazo.com/9acc47388a6d42285e1e0cff4b0114ea&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21646 (Новая): Не отображается информация в разделе "Оплата карточкой"</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21646"/>
+    <id>http://195.64.241.133:3000/issues/21646</id>
+    <updated>2023-09-22T14:16:27Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. В меню выбрать раздел "игрушки" &lt;br /&gt;3. Выбрать машинку Амфибия&lt;br /&gt;4. Курсором навести на способы оплаты&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt; Всплывает информационное окно&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Нет информации&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/d9c465bc9162e0c25950b3cffae118a2"&gt;https://gyazo.com/d9c465bc9162e0c25950b3cffae118a2&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21645 (Новая): Не воспроизводится видеоролик в разделе "Тир и стрелецкий клуб"</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21645"/>
+    <id>http://195.64.241.133:3000/issues/21645</id>
+    <updated>2023-09-22T14:06:15Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. В футере выбрать раздел "Тир и стрелецкий клуб" &lt;br /&gt;3. В футере страницы вибрать раздел "Про нас" &lt;br /&gt;4. Спуститься вниз, нажать воспроизвети видеоролик&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Видеоролик воспроизводится&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Видео не воспроизводится&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/2d0329bc2431038b80de4df6381167d3"&gt;https://gyazo.com/2d0329bc2431038b80de4df6381167d3&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21644 (Новая): Частичная локализация в разделе "Журнал світ захоплень"</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21644"/>
+    <id>http://195.64.241.133:3000/issues/21644</id>
+    <updated>2023-09-22T13:58:30Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. В футере выбрать раздел "Журнал світ захоплень"&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Страница переведена на украинский язык в украиской версии сайта&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Старница полностью на русском&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/6a9d87640cbfb10212a6a6939b113467"&gt;https://gyazo.com/6a9d87640cbfb10212a6a6939b113467&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21643 (Новая): Некликабельны иконки в разделе "наши рецепты" в Кулинарный дом Ибис</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21643"/>
+    <id>http://195.64.241.133:3000/issues/21643</id>
+    <updated>2023-09-22T13:50:52Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. В футере выбрать "Кулинарный дом Ибис" &lt;br /&gt;3. В футере страницы выбрать "наши рецепты" &lt;br /&gt;4. Нажать функциональность "читать дальше" "Закуска рыбный дуэт" &lt;br /&gt;4. Нажать иконки под рекламной картинкой блюда&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;Иконки нажимаются, виден рецепт&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Иконки не активны, рецепт отсутствует&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/0cae55092f3286e42edda2a1a129d5e1"&gt;https://gyazo.com/0cae55092f3286e42edda2a1a129d5e1&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21642 (Новая): Нефункционирует кнопка локализации на русский язык</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21642"/>
+    <id>http://195.64.241.133:3000/issues/21642</id>
+    <updated>2023-09-22T13:37:52Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;/p&gt;
+
+
+	&lt;p&gt;1. Зайти на сайт&lt;br /&gt;2. В хедере нажать переключение на "ru"&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Кнопка функционирует&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Не переключается&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/934b096994a611da9aee02372ac95a8c"&gt;https://gyazo.com/934b096994a611da9aee02372ac95a8c&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21641 (Новая): Частичная локализация в разделе "Режим работы"</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21641"/>
+    <id>http://195.64.241.133:3000/issues/21641</id>
+    <updated>2023-09-22T13:23:53Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;br /&gt;1. Зайти на сайт&lt;br /&gt;2. В футере нажать "Режим работы" &lt;br /&gt;3. Спуститься вниз&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Вместо "сб-вс" написано "сб-нд"&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;"сб-вс" в украинской версии сайта&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;a class="external" href="https://gyazo.com/c9432d7b51a9c601afc18850bebcd904"&gt;https://gyazo.com/c9432d7b51a9c601afc18850bebcd904&lt;/a&gt;&lt;/p&gt;    </content>
+  </entry>
+  <entry>
+    <title>Ошибка #21640 (Новая): Ошибка 404 "Страница не найдена" при переходе во всплывающем окне "узнать ...</title>
+    <link rel="alternate" href="http://195.64.241.133:3000/issues/21640"/>
+    <id>http://195.64.241.133:3000/issues/21640</id>
+    <updated>2023-09-22T13:07:17Z</updated>
+    <author>
+      <name>Катерина Пелех</name>
+    </author>
+    <content type="html">
+&lt;p&gt;&lt;strong&gt;Шаги воспроизведения:&lt;/strong&gt;&lt;br /&gt;1. Открыть сайт &lt;a class="external" href="https://ibis.net.ua/ua/sale/search/"&gt;https://ibis.net.ua/ua/sale/search/&lt;/a&gt;&lt;br /&gt;2. В меню слева выбрать раздел "распродажа" &lt;br /&gt;3. Нажать на всплывающее окно с предложение узнать больше...&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Ожидаемый результат:&lt;/strong&gt;&lt;br /&gt;Страница с предложением открывается&lt;/p&gt;
+
+
+	&lt;p&gt;&lt;strong&gt;Фактический результат:&lt;/strong&gt;&lt;br /&gt;Ошибка 404, страница не найдена&lt;/p&gt;
