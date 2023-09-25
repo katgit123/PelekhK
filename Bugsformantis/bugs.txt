@@ -1,0 +1,644 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="QA29">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+<Row>
+<Cell>
+<Data ss:Type="String">ID</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Project</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Reporter</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Assigned To</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Priority</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Severity</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Reproducibility</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Product Version</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Category</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Date Submitted</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">OS</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">OS Version</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Platform</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">View Status</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Updated</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Summary</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Status</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Resolution</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Fixed in Version</Data>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001370</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-22</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-22</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Наложение логотипа слева и боковых иконок справа на текст на странице</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001369</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-22</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-22</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Грамматическая ошибка в слове "недавно" в описании разаработки мобильных приложений в украинской версии сайта</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001368</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-22</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-22</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">[L10N] Частичная локализация в ролике "Спецпож сервіс" в разделе "Портфолио"</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001367</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">[L10N] Частичная локализация в проекте "Autohelp"</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001366</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">major</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">[L10N] Локализация в проморолике "О компании"</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001365</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">major</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">[L10N] Локализация в проморолике по проекту "Rubikon wallet"</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001364</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">major</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Ошибка "Страница не найдена" при нажатии на функциональность "Googl play"</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001363</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Некликабельны кнопки в проекте Bythewey</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001362</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">low</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">[L10N] Частичная локализация в разделе "F.A.Q"</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">new</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">open</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+</Row>
+<Row>
+<Cell>
+<Data ss:Type="Number">0001361</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">QA29</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">Kateryna</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">normal</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">minor</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">always</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">General</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String"/>
+</Cell>
+<Cell>
+<Data ss:Type="String">private</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">2023-09-20</Data>
+</Cell>
+<Cell>
+<Data ss:Type="String">[L10N] Частичная локализация в разделе "Про компанию"</Data>
