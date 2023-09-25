@@ -1,0 +1,269 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<suite>
+<id>S1</id>
+<name>Master</name>
+<description/>
+<sections>
+<section>
+<name>Test Cases</name>
+<description/>
+<cases>
+<case>
+<id>C1</id>
+<title>Проверить размещение функциональности "Зв"язатися з нами" на странице сайта Zezman</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт https://zezman.ua/ua 2. Спуститься в футер</steps>
+<expected>Функциональность "Зв"язатися з нами" на странице сайта расположена в футере</expected>
+</custom>
+</case>
+<case>
+<id>C2</id>
+<title>Прверить размер шрифта функциональности "Зв"язатися з нами" на сайте Zezman</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Low</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Проверить размер шрифта надписи </steps>
+<expected>Шрифт размер 38, полужирный</expected>
+</custom>
+</case>
+<case>
+<id>C3</id>
+<title>Проверить цвет шрифта функциональности "Зв"язатися з нами" на странице сайта Zezman</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Low</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Проверить цвет шрифта надписи функциональности</steps>
+<expected>Цвер шрифта светлосерый</expected>
+</custom>
+</case>
+<case>
+<id>C4</id>
+<title>Проверить название функциональности "Зв"язатися з нами" в украинской версии сайта</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Переключить локализацию на "UA" 3. Спуститься в футер</steps>
+<expected>Название функциональности "Зв"язатися з нами" в украинской локализации сайта написана правильно</expected>
+</custom>
+</case>
+<case>
+<id>C5</id>
+<title>Проверить название функциональности "Зв"язатися з нами" в русской локализации сайта</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Переключить на русскую локализацию "Ru" 3. Спуститься в футер</steps>
+<expected>название функциональности "Зв"язатися з нами" в русской версии сайта написана правильно "Связаться с нами"</expected>
+</custom>
+</case>
+<case>
+<id>C6</id>
+<title>Проверить название функциональности "Зв"язатися з нами" в английской версии сайта</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Переключить локализацию на "En" 3. Спуститься в футер</steps>
+<expected>название функциональности "Зв"язатися з нами" в английской версии сайта написана правильно "Contact us"</expected>
+</custom>
+</case>
+<case>
+<id>C8</id>
+<title>Проверить изменение цвета шрифта номера телефона Украины функциональности "Зв"язатися з нами" при наведении курсора</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Навести курсор на номер телефона Украины </steps>
+<expected> Цвета шрифта номера телефона Украины функциональности "Зв"язатися з нами" при наведении курсора меняется на оранжевый</expected>
+</custom>
+</case>
+<case>
+<id>C9</id>
+<title>Проверить изменение цвета шрифта номера телефона Евросоюза функциональности "Зв"язатися з нами" при наведении курсора</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Навести курсор на номер телефона Евросоюза </steps>
+<expected> Цвета шрифта номера телефона Евросоюза функциональности "Зв"язатися з нами" при наведении курсора меняется на оранжевый</expected>
+</custom>
+</case>
+<case>
+<id>C10</id>
+<title>Проверить изменение цвета шрифта номера телефона Израиля функциональности "Зв"язатися з нами" при наведении курсора</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Навести курсор на номер телефона Израиля </steps>
+<expected> Цвета шрифта номера телефона Израиля функциональности "Зв"язатися з нами" при наведении курсора меняется на оранжевый</expected>
+</custom>
+</case>
+<case>
+<id>C11</id>
+<title>Проверить соответствие иконки флага страны Израиля номеру телефона</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Проверить соответствие иконки флага номеру телефона Израиля </steps>
+<expected> Иконка флаг соответствует номеру телефона Израиля </expected>
+</custom>
+</case>
+<case>
+<id>C12</id>
+<title>Проверить кликабельность номера телефона Украины в функциональности "Зв'язатися з нами"</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Нажать на номер телефона Украины </steps>
+<expected>Номер телефона не должен перекидывать на страницу поиска выбора программы</expected>
+</custom>
+</case>
+<case>
+<id>C13</id>
+<title>Проверить кликабельность номера телефона Евросоюза в функциональности "Зв'язатися з нами"</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Нажать на номер телефона Евросоюза </steps>
+<expected>Номер телефона не должен перекидывать на страницу поиска выбора программы</expected>
+</custom>
+</case>
+<case>
+<id>C14</id>
+<title>Проверить кликабельность номера телефона Израиля в функциональности "Зв'язатися з нами"</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Нажать на номер телефона Израиля </steps>
+<expected>Номер телефона не должен перекидывать на страницу поиска выбора программы</expected>
+</custom>
+</case>
+<case>
+<id>C15</id>
+<title>Проверить отправку обращения при введении электронного адреса кирилицей</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Заполнить обращение 4. Ввести электронный адрес кирилицей </steps>
+<expected>Обращение не отправлено, появляется сообщение о некорректных данных</expected>
+</custom>
+</case>
+<case>
+<id>C16</id>
+<title>Проверить отправку обращения при введении несуществующего электронного адреса</title>
+<template>Test Case (Text)</template>
+<type>Other</type>
+<priority>Medium</priority>
+<estimate/>
+<references/>
+<custom>
+<automation_type>
+<id>0</id>
+<value> None</value>
+</automation_type>
+<steps>1. Открыть сайт 2. Спуститься в футер 3. Заполнить обращение 4. Ввести электронный несуществующий адрес </steps>
+<expected>Обращение не отправлено, появляется сообщение о некорректных данных</expected>
+</custom>
+</case>
+</cases>
+</section>
+</sections>
+</suite>
